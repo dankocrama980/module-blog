@@ -30,7 +30,7 @@ Blog,Blog
 "The import process was completed successfully. %1 posts and %2 categories where imported.","L'importation a été réalisée avec succès. %1 articles et %2 catégories ont été importés."
 "The import process completed. %1 posts and %2 categories where imported. Some posts or categories where skipped.<br/> %3 %4","L'importation a été réalisée. %1 articles et %2 catégories ont été importés. Des articles ou des catégories n'ont pas pu être importés.<br/> %3 %4"
 "Nothing to import.","Rien à importer."
-"Can not make import.","Impossible de réaliser l'import.""
+"Can not make import.","Impossible de réaliser l'import."
 "Something went wrong: ","Un problème est survenu: "
 "Blog Import from WordPress (beta)","Importer son blog à partir de WordPress (beta)"
 "Please select","Veuillez sélectionner"
